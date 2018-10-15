@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_c4a8997d1b79d59eeee5191b643cab4e08fe2a10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_40ab16a8ff20b109bb0157caf92bc153f4846819\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_cec74d75e322794c7f49aededd3cb4851f1445ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_d7e58531cca3fa07282f83eaa289362e75643e46\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\17.0\9c6ef172e8de35fd8d4d8783e4821e57cdef7445\guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_b987df473c5ac7c1ef9310e85e619c8ea14ad23a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_75bc3f711c94c70f9747dc4258175136d6e56dd1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_94b359fd5da32ea6af6d1060372360bbd38eb484\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\Rajat\Desktop\Coursera\Java for Android\week 4\Calculator App\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_7a3110235174afc48cf28746ae8cb2a38f2a6ae0\classes.dex" />
+    </item>
+
+</items>
